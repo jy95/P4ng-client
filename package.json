@@ -5,10 +5,10 @@
   "main": "src/app.js",
   "dependencies": {
     "callsite": "^1.0.0",
-    "electron": "11.2.2",
+    "electron": "11.4.0",
     "shelljs": "^0.8.0",
     "socket.io-client": "^2.0.0",
-    "snyk": "^1.362.0"
+    "snyk": "^1.465.0"
   },
   "scripts": {
     "startClient": "electron src/app.js",
