@@ -5,7 +5,7 @@
   "main": "src/app.js",
   "dependencies": {
     "callsite": "^1.0.0",
-    "electron": "29.4.6",
+    "electron": "32.3.0",
     "shelljs": "^0.8.0",
     "socket.io-client": "^2.5.0",
     "snyk": "^1.685.0"
